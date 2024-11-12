@@ -47,21 +47,21 @@
         //}
 
         //uppgift4
-        Console.WriteLine("Enter a character: ");
-        string character = Console.ReadLine();
+        //Console.WriteLine("Enter a character: ");
+        //string? character = Console.ReadLine();
 
-        switch(character) {
-            case "a":
-            case "e":
-            case "i":
-            case "o":
-            case "u":
-                Console.WriteLine("Character is a Vowel");
-                break;
-            default:
-                Console.WriteLine("Character is a Consonant");
-                break;
-        }
-    }
+        //switch(character) {
+            //case "a":
+            //case "e":
+            //case "i":
+            //case "o":
+            //case "u":
+                //Console.WriteLine("Character is a Vowel");
+                //break;
+            //default:
+                //Console.WriteLine("Character is a Consonant");
+                //break;
+        //}
+    //}
         
-}
+//}
