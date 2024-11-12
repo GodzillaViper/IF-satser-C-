@@ -1,0 +1,14 @@
+C:\Users\kamran.allahverdi\Desktop\IF-satser-C#\if_satser\bin\Debug\net8.0\if_satser.exe
+C:\Users\kamran.allahverdi\Desktop\IF-satser-C#\if_satser\bin\Debug\net8.0\if_satser.deps.json
+C:\Users\kamran.allahverdi\Desktop\IF-satser-C#\if_satser\bin\Debug\net8.0\if_satser.runtimeconfig.json
+C:\Users\kamran.allahverdi\Desktop\IF-satser-C#\if_satser\bin\Debug\net8.0\if_satser.dll
+C:\Users\kamran.allahverdi\Desktop\IF-satser-C#\if_satser\bin\Debug\net8.0\if_satser.pdb
+C:\Users\kamran.allahverdi\Desktop\IF-satser-C#\if_satser\obj\Debug\net8.0\if_satser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran.allahverdi\Desktop\IF-satser-C#\if_satser\obj\Debug\net8.0\if_satser.AssemblyInfoInputs.cache
+C:\Users\kamran.allahverdi\Desktop\IF-satser-C#\if_satser\obj\Debug\net8.0\if_satser.AssemblyInfo.cs
+C:\Users\kamran.allahverdi\Desktop\IF-satser-C#\if_satser\obj\Debug\net8.0\if_satser.csproj.CoreCompileInputs.cache
+C:\Users\kamran.allahverdi\Desktop\IF-satser-C#\if_satser\obj\Debug\net8.0\if_satser.dll
+C:\Users\kamran.allahverdi\Desktop\IF-satser-C#\if_satser\obj\Debug\net8.0\refint\if_satser.dll
+C:\Users\kamran.allahverdi\Desktop\IF-satser-C#\if_satser\obj\Debug\net8.0\if_satser.pdb
+C:\Users\kamran.allahverdi\Desktop\IF-satser-C#\if_satser\obj\Debug\net8.0\if_satser.genruntimeconfig.cache
+C:\Users\kamran.allahverdi\Desktop\IF-satser-C#\if_satser\obj\Debug\net8.0\ref\if_satser.dll
